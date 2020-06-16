@@ -1,4 +1,4 @@
-# flutter-client-restful
+# flutter_client_restful
 
 A new Flutter project.
 
